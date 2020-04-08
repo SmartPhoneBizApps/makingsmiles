@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://atul:London2020@smartapp01-hjwfb.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "London20"
+}
